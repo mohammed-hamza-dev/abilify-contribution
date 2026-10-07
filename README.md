@@ -26,7 +26,7 @@ ABILIFY aims to provide a centralized platform where users can access multiple a
 
 ---
 
-## 💡 Proposed Solution
+## 💡 Proposed Solutions
 
 ABILIFY integrates multiple accessibility modules into a single web application.
 
